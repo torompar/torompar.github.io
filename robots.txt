@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://torompar.github.io/sitemap
+Sitemap: https://torompar.github.io/app/sitemap
+Sitemap: https://torompar.github.io/assets/sitemap
+Sitemap: https://torompar.github.io/css/sitemap
+Sitemap: https://torompar.github.io/includes/sitemap
+Sitemap: https://torompar.github.io/item/sitemap
+Sitemap: https://torompar.github.io/src/sitemap
